@@ -22,4 +22,4 @@ WhatsApp : +8801996528575
 😈 pkg install git
 😈 git clone https://github.com/Ajijul123aa/2009
 😈 cd 2009
-😈 python2 Killer.py
+😈 python2 Killer2009.py
