@@ -1,4 +1,6 @@
-# 2009
+# Jibon 2009
+# DO YOU KNOW WHO I AM
+# it’s Jibon
 # KILLER-C-2009
 
 # script
